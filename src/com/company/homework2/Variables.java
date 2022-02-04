@@ -1,4 +1,4 @@
-package com.company.lesson2;
+package com.company.homework2;
 
 public class Variables {
     byte b1 = 12;

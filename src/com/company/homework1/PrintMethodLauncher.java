@@ -1,4 +1,4 @@
-package com.company.lesson1;
+package com.company.homework1;
 
 public class PrintMethodLauncher {
     public static void main(String[] args) {
