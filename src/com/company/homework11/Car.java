@@ -1,13 +1,14 @@
 package com.company.homework11;
 
 public class Car {
-    public String color;
-    public String motorType;
-    public int doors;
 
-    public Car(String color, String motorType, int doors){
-        this.color = color;
+    public String carColor;
+    public String motorType;
+    public int quantityDoors;
+
+    public Car(String carColor, String motorType, int quantityDoors){
+        this.carColor = carColor;
         this.motorType = motorType;
-        this.doors = doors;
+        this.quantityDoors = quantityDoors;
     }
 }
