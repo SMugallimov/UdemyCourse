@@ -1,15 +1,14 @@
 package com.company.homework12;
 
 public class Student {
+
     public String studentName;
     public String className;
-    public int studentId;
-    public int year;
+    public int studentYear;
 
-    public Student(String studentName, int studentId, String className,  int year){
+    public Student(String studentName, int studentYear, String className){
         this.studentName = studentName;
-        this.studentId = studentId;
+        this.studentYear = studentYear;
         this.className = className;
-        this.year = year;
     }
 }
